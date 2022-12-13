@@ -1,4 +1,22 @@
 img {
     border: 5px solid black;
     border-radius: 5px;
+
+    img {
+        border: 10px solid black;
+    }
+    
+    
+    .kep2 {
+        border-color: rgb(0, 238, 255);
+    }
+    .kep3 {
+        border-color: rgb(0, 162, 255);
+    }
+    .kep4 {
+        border-color: rgb(139, 34, 43);
+    }
+    .kep5 {
+        border-color: rgba(86, 117, 57, 0.849);
+    }
 }
